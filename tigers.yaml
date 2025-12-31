@@ -1,10 +1,6 @@
 team: Tigers
 
-<<<<<<< HEAD
 manager: Brenda
-=======
-manager: Branda
->>>>>>> to-merge
 
 coach : Luse
 
@@ -14,3 +10,4 @@ members:
 - David
 - George
 - Tyler
+- Kim
